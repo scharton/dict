@@ -1,0 +1,2 @@
+# dict
+command-line dictionary 
